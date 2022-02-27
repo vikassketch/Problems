@@ -54,5 +54,6 @@ public class ExtractYear {
 		
 		
 	}
+	sc.close();
 
 }
